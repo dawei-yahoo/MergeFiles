@@ -1,0 +1,3 @@
+use adw;
+describe formatted apt_agg;
+dfs -du -h /projects/adw/prod/yaudience/apt_gd_agg/rc;
